@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964509482228",
+    "project_id": "diario-compartilhado-4f2b3",
+    "storage_bucket": "diario-compartilhado-4f2b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964509482228:android:c715d9bab4f770b03472a1",
+        "android_client_info": {
+          "package_name": "com.example.diario_compartilhado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAjM-FBZw62TZfxG-JrjJB82Ku01lbes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

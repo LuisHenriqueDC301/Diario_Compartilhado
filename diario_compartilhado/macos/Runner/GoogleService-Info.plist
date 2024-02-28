@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC9avKtU_SkrfTfhtQWNn01sBujZYW2PYM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>964509482228</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.diarioCompartilhado.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>diario-compartilhado-4f2b3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diario-compartilhado-4f2b3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:964509482228:ios:c950b5bfa3bb09913472a1</string>
+</dict>
+</plist>
